@@ -4,7 +4,7 @@ name: strong-frida build
 on:
   push:
     paths:
-    - VERSION
+    - master
 
 jobs:
   release:
