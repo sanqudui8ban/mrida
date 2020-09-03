@@ -1,5 +1,5 @@
 ###
-name: strong-frida build
+name: strong-frida build1
 
 on:
   push:
